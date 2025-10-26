@@ -61,7 +61,6 @@ Sleek interfaces using modern design tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend**
@@ -69,7 +68,7 @@ Sleek interfaces using modern design tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **Backend & Database**
 
@@ -100,8 +99,9 @@ Sleek interfaces using modern design tools
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:---:|:---:|:---:|:---:|
-| **🛒 Full-Stack Electronics Store** | Responsive web store with CRUD operations & authentication | .NET, C#, JavaScript, MySQL | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi) |
-| **👨‍💼 Portfolio Website** | Personal website showcasing projects & skills | HTML, CSS, JS | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi/MahmoudEsawip) |
+| **🎮 Tech Battle 26** | Web-based game platform for tech competitions with multiple game modes | HTML5, CSS3, JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi/TechBattle26) |
+| **🏛️ CS TTU Jordan IEEE** | IEEE Computer Society website for TTU Jordan branch | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi/CS.TTU.JORDAN.IEEE) |
+| **⚙️ The Assemblers** | Full-stack project management and assembly solutions | C#, .NET, Angular | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi/The-assemblers) |
 | **🏆 IEEE Xtreme Solutions** | Competitive programming solutions repository | C++, Python | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MahmoudEsawi/ieeeXtreme) |
 
 </div>
